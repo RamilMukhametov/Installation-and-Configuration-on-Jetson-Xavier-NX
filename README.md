@@ -1,1 +1,0 @@
-# Installation-and-Configuration-on-Jetson-Xavier-NX
