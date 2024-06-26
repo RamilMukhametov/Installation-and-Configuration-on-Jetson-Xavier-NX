@@ -4,6 +4,18 @@
 
 Useful links, preparations and common mistakes for the process of preparing Jetson Xavier NX.
 
+## JetPack SDK 5.1.2
+
+NVIDIA JetPack SDK is the most comprehensive solution for building end-to-end accelerated AI applications. JetPack provides a full development environment for hardware-accelerated AI-at-the-edge development on Nvidia Jetson modules.
+
+Мore info on [this page](https://developer.nvidia.com/embedded/jetpack-sdk-512)
+
+## Installing JetPack
+
+[NVIDIA SDK Manager Method](https://docs.nvidia.com/sdk-manager/install-with-sdkm-jetson/index.html)
+
+[SD Card Image Method](https://docs.nvidia.com/jetson/archives/r35.1/DeveloperGuide/text/SD/FlashingSupport.html#to-upgrade-jetpack-4-x-to-jetpack-5-x-on-jetson-xavier-nx-p3668-0000)
+
 ## Requirements
 
 1. Check if your Jetson is really Xavier, not Nano (usually it should have active cooling and SSD instead of MicroSD)
